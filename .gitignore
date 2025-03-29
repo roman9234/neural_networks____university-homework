@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.docx
+*.xml
+*.jpg
+*.png
+*.tar
+
+/3_лаба/VOCdevkit/
+/1_лаба/data/
+/2_лаба/data/
