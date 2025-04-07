@@ -1,1 +1,0 @@
-confidence_thrеshold = 0.1
