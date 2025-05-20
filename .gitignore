@@ -182,3 +182,10 @@ cython_debug/
 !/5_lab/data/
 
 !/5_lab/dataset/
+/5_lab/train_log.txt
+/5_lab/yolo11_I.pt
+/5_lab/yolo11_II.pt
+/runs/
+/5_lab/logs/
+/5_lab/dataset/
+/5_lab/data/
